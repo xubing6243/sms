@@ -1,11 +1,17 @@
 {
     "name": "steveak/sms",
     "description": "短信通道",
+    "keywords": [
+        "phalapi", "phalapi-sms", "sms"
+    ],
+    "license": "MIT",
     "type": "library",
     "authors": [
         {
             "name": "SteveAK",
-            "email": "aer_c@qq.com"
+            "email": "aer_c@qq.com",
+            "homepage": "https://github.com/xubing6243",
+            "role": "Developer"
         }
     ],
     "minimum-stability": "dev",
