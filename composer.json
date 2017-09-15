@@ -4,12 +4,12 @@
     "keywords": [
         "phalapi", "phalapi-sms", "sms"
     ],
-    "license": "GPL-3.0+",
+    "license": "MIT",
     "homepage": "https://www.phalapi.net/",
     "type": "library",
     "authors": [
         {
-            "name": "SteveAK",
+            "name": "steve xu",
             "email": "aer_c@qq.com",
             "homepage": "https://github.com/xubing6243",
             "role": "Developer"
