@@ -1,0 +1,20 @@
+{
+    "name": "steveak/sms",
+    "description": "短信通道",
+    "type": "library",
+    "authors": [
+        {
+            "name": "SteveAK",
+            "email": "aer_c@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "SteveAK\\Sms\\": "src"
+        }
+    }
+}
